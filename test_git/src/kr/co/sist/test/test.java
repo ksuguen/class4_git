@@ -8,7 +8,7 @@ public class test {
 		// hahaha2가 수정했습니다
 		int j=0;
 		System.out.println("j+"+j);
-		
+		 
 	}// main
 
 }// class
